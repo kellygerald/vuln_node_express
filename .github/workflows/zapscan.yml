@@ -1,3 +1,4 @@
+name: Run ZAP Basic Scan
 on: [push]
 
 jobs:
